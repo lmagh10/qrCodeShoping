@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="open_qr_reader">შტრიხკოდის წაკითხვა</string>
+	<string name="addNumber">ნომრის შეყვანა</string>
+	<string name="app_name">BarodeShopping</string>
+	<string name="addProductButton">პროდუქტის დამატება</string>
+	<string name="viewMyProducts">პროდუქტების ნახვა</string>
+	<string name="box_text">აეეე ხიხო</string>
+	
+	<string name="title_activity_show_products">ShowProducts</string>
+	<string name="desc">აღწერა</string>
+	
+</resources>
